@@ -1,7 +1,7 @@
 **Final product:**
 See R shiny app: https://ytamandawu.shinyapps.io/Real_estate_cashflow_metroZillow2023March/
 
-**01_data:**
+**01_data:** (data sources can be downloaded via the links below)
 
 Zip_zori_sm_month.csv: 
 downloaded from https://www.zillow.com/research/data/, under the RENTALS tap; data type = ZORI; geography = zipcode 
